@@ -18,8 +18,8 @@ import piezas.Torre;
 
 public final class PanelAjedrez extends JPanel implements Runnable{
     
-    public static int ancho = 1100;
-    public static int alto = 800;
+    public static int ancho = 1360;
+    public static int alto = 768;
     final int FPS = 60;
     Thread EjecutarThread;
     Tablero tablero = new Tablero();

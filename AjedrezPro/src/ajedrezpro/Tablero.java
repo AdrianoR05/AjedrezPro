@@ -8,7 +8,7 @@ public class Tablero {
     
     final int maxCol = 8;
     final int maxFil = 8;
-    public static final int tamano_cuadro = 100;
+    public static final int tamano_cuadro = 80;
     public static final int mitad_cuadro = tamano_cuadro/2;
     
     public void draw(Graphics2D a2) {
